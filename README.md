@@ -14,7 +14,7 @@ CyberGuard 机场是一家2023 年开始运营的 Shadowsocks 机场，线路有
 
 季付  25%  IGwjxcpF
 
-月付  15%  YFx0yXo31111
+月付  15%  YFx0yXo311111
 
 ## CyberGuard价格
 
