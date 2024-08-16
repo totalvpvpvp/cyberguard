@@ -7,7 +7,7 @@
 CyberGuard 机场是一家2023 年开始运营的 Shadowsocks 机场，线路有公网中转、IPLC 和 IEPL 专线，节点覆盖大陆常用地区。CyberGuard 机场（CG 加速器）当前正在进行优惠促销活动，欲购从速。另外，CyberGuard 机场还有不限时长流量包提供，以及支持企业定制功能。
 
 ## CyberGuard优惠码
-111111111
+1111111111
 優惠活動詳情如下：
 
 年付及以上  35%  Etdvej3S
